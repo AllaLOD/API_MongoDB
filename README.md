@@ -1,1 +1,1 @@
-Voir l'application sur la btanche "master"
+Voir l'application sur la branche "master"
